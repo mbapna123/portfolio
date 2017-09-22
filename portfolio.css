@@ -1,0 +1,216 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  width: 1000px;
+  height: 2000px;
+}
+.windows{
+  width: 860px;
+  height: 930px;
+  background-color: #6f5964;
+}
+
+.photo{
+  border: 20px;
+  display: inline-block;
+  vertical-align: top;
+  width:320px;
+  height:200px;
+  border-style: solid;
+  border-color: silver;
+  border-width: 10px;
+  margin-left: 30px;
+  margin-right: 40px;
+  margin-top: 20px;
+  background-color: blue;
+}
+
+.photo4{
+  text-decoration: underline;
+}
+
+.photo3{
+  height:30px;
+  width:30px;
+}
+.about{
+  width:380px;
+  height: 220px;
+  padding: 0px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: inline-block;
+  background-color: white;
+}
+.abouttop2{
+  width: 320px;
+  height: 30px;
+margin: auto;
+color:white;
+position: relative;
+top: 18px;
+font-size: 24px;
+}
+.abouttop{
+  width:380px;
+  height:60px;
+  background: linear-gradient(black,grey);
+}
+.aboutbot{
+  width:320px;
+  height:120px;
+  margin-top:20px;
+  margin-left: 30px;
+  background-color: white;
+  font-size: 15px;
+}
+
+.project{
+  width:800px;
+  height: 65px;
+  background-color:#f8f8f8;
+  padding: 30px;
+}
+
+.project1{
+width: 350px;
+height: 75px;
+background-color: #f8f8f8;
+color: black;
+font-family: "Comic Sans MS";
+font-weight: bold;
+font-size: 42px;
+position: relative;
+left: 0px;
+bottom: 15px;
+margin: 20px;
+display: inline-block;
+vertical-align: top;
+}
+
+.project2{
+width: 360px;
+height: 75px;
+background-color: #f8f8f8;
+color: black;
+font-family: "Comic Sans MS";
+font-weight: bold;
+font-size: 20px;
+position: relative;
+left: 0px;
+top: 0px;
+margin: 20px;
+display: inline-block;
+vertical-align: top;
+}
+
+.LaMode{
+  margin: 35px;
+  width: 220px;
+  padding: 0px;
+  height: 600px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+.insidetop{
+  height: 50px;
+  background: linear-gradient(black,grey);
+  width:220px;
+}
+
+.insidething{
+  height: 50px;
+  background: linear-gradient(black,grey);
+  width:220px;
+  margin-top:60px;
+  color:white;
+  position: relative;
+  top: 18px;
+  font-size: 20px;
+  font-family: Arial
+}
+
+.inside{
+  margin-top:180px;
+  margin-left:20px;
+  width: 180px;
+  height:100px;
+  position: relative;
+  font-size: 12px;
+  font-family: "Arial";
+}
+
+.insidebot{
+  margin-top: 0px;
+  width:220px;
+  height:160px;
+  background-color: silver;
+}
+
+.insideneartop{
+margin-top:0px;
+width:220px;
+position: absolute;
+background-color: silver;
+}
+.FamilyContacts{
+  width: 220px;
+  margin: 35px;
+  height: 600px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Five{
+  margin-top: 35px;
+  width: 220px;
+  height: 600px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.insidetop2{
+  width: 180px;
+  height: 40px;
+  margin: auto;
+  position: relative;
+  top: 5px;
+  color: white;
+  font-size: 24px;
+}
+
+.photos{
+  width:40px;
+  height:40px;
+}
+
+.end{
+  width: 800px;
+  height: 65px;
+  padding: 30px;
+background-color:#f8f8f8;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-family: "Arial"
+}
+
+.bot2{
+  width: 130px;
+  height: 40px;
+  background-color: #407d61;
+  margin: auto;
+  color: white;
+  font-weight: bold;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 15px;
+  text-align: center;
+}
